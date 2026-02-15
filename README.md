@@ -29,6 +29,11 @@ This project demonstrates a Linux file system security hardening exercise focuse
 - ls
 - File Permission Auditing
 
+## Security Workflow
+
+![Security Workflow](workflow-diagram.png)
+
+
 
 ## Author
 
