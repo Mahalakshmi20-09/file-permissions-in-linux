@@ -31,7 +31,7 @@ This project demonstrates a Linux file system security hardening exercise focuse
 
 ## Security Workflow
 
-![Security Workflow](workflow-diagram.png)
+![Security Workflow](workflow_diagram.png)
 
 
 
